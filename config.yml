@@ -1,0 +1,6 @@
+development:
+  store: decoreharmony.myshopify.com
+  password: shptka_2f347aee6ac652382ba9e8441d837972
+  theme_id: "149935489278" 
+  ignore_files:
+    - config/settings_data.json
